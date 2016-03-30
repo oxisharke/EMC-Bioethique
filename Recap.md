@@ -124,3 +124,27 @@ _Diapo 12_: __Smart Drugs__
 * Améliorer la concentration, la mémoire, la vitesse d'apprentissage et de réflexion
 * Déjà utilisée par l'armée sur les mission de longue durée
 
+###II - Les limites éthiques de l'amélioration humaine sont relatives
+_Diapo 13_: __Smart Drugs & Ethique__
+
+---
+* Des effets secondaires pouvant être graves
+* Développement des capacités cognitives important
+
+_Diapo 14_: __Implant cérébral et éthique__
+
+---
+* À première vu correcte d'un pt de vue éthique
+* Les dystopies amène la réflexions à des cas de dérive
+* Une question de limites technique pour eviter les dérives
+* Altération du jugment, manipulation de l'organisation de la société
+* Donc une source de débats importants alimentés par la Sci-Fi
+
+_Diapo 15_: __Modification génétique et éthique__
+
+---
+* Modification du génome humain
+* Une considération de l'espèce humaine à redéfinir
+* un développement de l'eugénisme
+
+> Bienvenue à Gattaca : société basée sur les prédispositions génétiques
