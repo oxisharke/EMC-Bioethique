@@ -97,4 +97,28 @@ _Diapo 9_: __Le coeur carmat__
 _Diapo 10_: __Les modifications embryonaires__
 
 ---
-* 
+* Augmentation humaine pré-natale en développement (Chinois, Anglais, Américains)
+* Eliminer les pathologies génétiques
+* Une tentative sur 86 embryons peu concluante  
+> 71 inséminés correctement & 4/54 présentant la modification
+
+_Diapo 11_: __Puce cérébrale__
+
+---
+* Approche plus lucrative/"commerciale" => Amélioration du corps
+* L'homme repousse ses limites et celles de sa connaissance  
+
+* Projet RAM de la DARPA (implant cérébral) -> Amélioration de la mémoire, et soin de maladies dégénératives comme Alzeihmer
+* Longuement critiquée  
+> José Delgado en 1966 -> Il est possible d'altérer le cerveau grâce à des signaux electriques
+
+_Diapo 12_: __Smart Drugs__
+
+---
+* Voie médicamenteuse, émergent sur le marché
+* Nootropics déjà en vente à l'international  
+> Nootrobox : Service de livraison de Nootropics hebdomadaire ou mensuelle
+
+* Améliorer la concentration, la mémoire, la vitesse d'apprentissage et de réflexion
+* Déjà utilisée par l'armée sur les mission de longue durée
+
