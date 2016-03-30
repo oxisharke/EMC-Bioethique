@@ -99,7 +99,8 @@ _Diapo 10_: __Les modifications embryonaires__
 ---
 * Augmentation humaine pré-natale en développement (Chinois, Anglais, Américains)
 * Eliminer les pathologies génétiques
-* Une tentative sur 86 embryons peu concluante  
+* Une tentative sur 86 embryons peu concluante
+
 > 71 inséminés correctement & 4/54 présentant la modification
 
 _Diapo 11_: __Puce cérébrale__
@@ -109,8 +110,9 @@ _Diapo 11_: __Puce cérébrale__
 * L'homme repousse ses limites et celles de sa connaissance  
 
 * Projet RAM de la DARPA (implant cérébral) -> Amélioration de la mémoire, et soin de maladies dégénératives comme Alzeihmer
-* Longuement critiquée  
-> José Delgado en 1966 -> Il est possible d'altérer le cerveau grâce à des signaux electriques
+* Longuement critiquée
+
+> José Delgado en 1966 : Il est possible d'altérer le cerveau grâce à des signaux electriques
 
 _Diapo 12_: __Smart Drugs__
 
