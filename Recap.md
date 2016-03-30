@@ -17,16 +17,15 @@ _Diapo 2_: __Définition du transhumanisme__
 * Science qui repousse les limites de la civilisation
 * Question d'ethique :
 
->Quels sont les limites de cette augmentation ?
->Jusqu’où peut on considérer un homme augmenté comme un homme ? 
->Est-ce le cerveaux la seul caractéristique d’un individu ?
+>Quels sont les limites de cette augmentation ?  
+>Jusqu’où peut on considérer un homme augmenté comme un homme ?  
+>Est-ce le cerveaux la seul caractéristique d’un individu ?  
 
 _Diapo 3_: __Définition de la Bioéthique__
 
 ---
 * Droit et principes sur l'anatomie
 * limite la mise en place de certains procédés
-
 > IVG, biotechnologies humaines, modification neurologique, clonage humain
 
 _Diapo 4_: __Définition de l'homme__
@@ -36,7 +35,6 @@ _Diapo 4_: __Définition de l'homme__
 * définition d'une espèce : Capable de se reproduire avec d'autres êtres humains
 * CNRTL : Humain = possédant les caractéristique de l'homme -> Empathie
 * ressemblant à l'homme (Apparence & fonctionnement)
-
 > Bipédie, traduction/transcripton, forme humanoïde
 
 _Diapo 5_: __Texte de d'introduction__
@@ -47,11 +45,9 @@ _Diapo 5_: __Texte de d'introduction__
 * Recherche à comprendre l'univers qui l'entoure
 * Expériences pour comprendre : W.Beaumont & I.Ivanov
 * Expériences pour développer un surhomme (guerre froide) => Culture populaire
-
 > Captain américa (force surhumaine) & Robocop (la technique sous forme humanoïde)
 
 * Compréhension des mecanismes du corps humain : technique => limites ethiques
-
 > Sélection / modification génétique (GATTACA)
 
 * Transhumanisme très discuté - Tendance naissante (BioHacking)
@@ -65,14 +61,13 @@ En quoi l'amélioration humaine peut elle être source de débats ?
 _Diapo 7_: __Plan__
 
 ---
-  I - Il existe plusieurs formes d'amélioration humaine
+  I - Il existe plusieurs formes d'amélioration humaine  
   II - Les limites éthiques de l'amélioration humaine sont relatives
 
 _Diapo 8_: __Chronologie__
 
 ---
 * _500 av J.C:_ Premières recherches sur le corps humain :
-
 > Vaisseaux sanguins, veines, nerf optique
 
 * _300 av J.C:_ Première dissection du corps humain
@@ -88,7 +83,6 @@ _Diapo 9_: __Le coeur carmat__
 ---
 * Amélioration humaine utile dans la médecine
 * Développement d'organes artificiels par des sociétés privées
-
 > Carmat, Syncardia, Abiomed, Texas Heart Institute...
 
 * Carmat spécialisé dans les prothèses bio-prothétiques
