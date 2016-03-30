@@ -81,3 +81,26 @@ _Diapo 8_: __Chronologie__
 * _1952 :_ 1er clonage (grenouille léopard) - Robert Briggs & Thomas King
 * _2011 :_ Apparition des smart drugs
 * _18 décembre 2013 :_ 1ère greffe coeur Carmat
+
+###I - Il existe plusieurs formes d'amélioration humaine
+_Diapo 9_: __Le coeur carmat__
+
+---
+* Amélioration humaine utile dans la médecine
+* Développement d'organes artificiels par des sociétés privées
+
+> Carmat, Syncardia, Abiomed, Texas Heart Institute...
+
+* Carmat spécialisé dans les prothèses bio-prothétiques
+* 2 cavités ventriculaires (comme un vrai coeur)
+* Un dispositif régule le fonctionnement de la prothèse en fonction du besoin du patient
+
+* Plusieurs patients gréffés
+> 1er 18dec2013 74j, 2eme 5Août2014 271j, 3eme 8avril2015 74j(Insuffisance rénale), 4eme 22dec2015 30j
+
+* Autre prothèse en développement par la Darpa (Bras sensible au toucher)
+
+_Diapo 10_: __Les modifications embryonaires__
+
+---
+* 
