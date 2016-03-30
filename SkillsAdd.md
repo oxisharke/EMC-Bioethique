@@ -1,0 +1,15 @@
+###L'ajout d'une compétence à l'homme augmenté
+---
+_New diapo_: __L'implant cérébral__
+
+---
+
+L'augmentation humaine n'est pas uniquement bonne à modifier le genre humain et sa composition ou à soigner des patients malades ou mourants, en effet une approche beaucoup plus "commerciale de la chose" est l'augmentation humaine par l'ajout d'une compétence ou par l'amélioration des compétences de l'homme. En effet, nous avons vu que l'homme cherchait continuellement à repousser ses limites et à s'améliorer lui ainsi que sa connaissance. Dans cette optique, certains centres de recherche comme la DARPA (Defense Advanced Research Projects Agency :Agence des projets de recherche avancée de la défense) travaille sur des techniques visant à "améliorer voir ajouter les compétences cognitives d'un individu." En effet, la DARPA a lancé le projet RAM (Restoring Active Memory) visant à développer un implant cérébral permettant d'alterer les fonctionnements cerebraux dans l'optique de permettre une mémorisation plus rapide, de restaurer des souvenir en perdition et de soigner des maladie dégénératives comme Alzheimer ou même de permettre une meilleure vitesse de réflexion (amélioration de la vitesse de calcul mental par exemple). 
+Il est également intéressant de constater que cette idée n'est pas toute jeune car a été critiquée depuis longtemps nottament par Delgado qui avait démontré, suite à des travaux sur le cerveaux en 1966, qu'il était possible d'altérer le fonctionnement de notre cortex cérébral grâce à des signaux électriques.
+
+---
+_New diapo_: __Les Smart drugs__
+
+---
+
+Une autre forme d'augmentation humaine tout aussi intéressante et la voie médicamenteuse, en effet, on voit apparaitre sur le marché de plus en plus de smart drugs. Ces smart drugs sont des drogues agissant sur les facultés de notre cerveaux. En effet, parmis ces dernières on trouve les nootropics qui sont largement répandus à l'heure d'aujourd'hui et même disponible en parapharmacie. Elles sont destinée à améliorer la mémoire, augmenter la faculté d'apprentissage, notre vitesse de réflexion ou même notre vitesse de réflexion. Une alternative à la puce cérébrale médicamenteuse d'où sont nom de "drug" en anglais qui signifie également médicament. Ces nootropics sont désormés comercialisés par certaines société comme nootrobox qui propose plusieurs formules de livraison de nootropics à différents effets hebdomadairement aux habitants de la silicon valley. Mais ces smart drugs n'ont pas toujours été destiné au publique et aux facultés d'apprentissage, en effet l'armée américaine les utilisait déjà afin de garder leurs soldats concentrés sur des missions de longue durée. Ce qui nous amène à parler du risque que peut engendrer l'implication des gouvernement et lobbys dans l'augmentation humaine ainsi que la question des limites ethiques qui pourraient être franchies par appat du gain par de telles puissances.
